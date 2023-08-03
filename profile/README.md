@@ -1,4 +1,3 @@
-# REALTORS® Association of Hamilton-Burlington
 <p align="center">
 <img src="https://s1.cdn.rahb.ca/rahbca/wp-content/uploads/2023/01/rahb_logo.png"/>
 </p>
