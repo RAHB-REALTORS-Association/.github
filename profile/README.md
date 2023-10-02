@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://s1.cdn.rahb.ca/rahbca/wp-content/uploads/2023/01/rahb_logo.png"/>
+<img src="https://s1.cdn.rahb.ca/rahbca/wp-content/uploads/2023/01/rahb_logo.png" alt="RAHB logo" width="300" />
 </p>
 Welcome to the GitHub of the REALTORS® Association of Hamilton-Burlington (RAHB)! Since our establishment in 1921, we have grown to become the third-largest real estate association in Ontario and the eighth-largest in Canada, proudly representing nearly 3,800 members in Hamilton, Burlington, and surrounding areas. Our members, identified by the REALTOR® trademark, are committed to maintaining the highest standards of professional ethics in the real estate industry.
 
